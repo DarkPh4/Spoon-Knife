@@ -1,1 +1,4 @@
-esto hay que borrarlo pronto, o no borrarlo nunca jamas!
+<<<<<<< HEAD
+=======
+esto hay que borrarlo pronto
+>>>>>>> dc96c50559fcc04d87eff5d2043813d3a3a9f915
